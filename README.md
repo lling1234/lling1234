@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is ling and I'm a software developer.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ling1234&hide=contribs,prs)
 <!--
 **lling1234/lling1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
